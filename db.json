@@ -1,5 +1,4 @@
-{
- "companies":[
+[
     {
     "id": 1,
     "name": "Martian Firma",
@@ -15,4 +14,3 @@
     "date_of_first_purchase": "2120-01-14"
     }
 ]
-}
